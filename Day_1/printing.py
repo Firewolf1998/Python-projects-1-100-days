@@ -1,3 +1,3 @@
 print("Day 1 - Python Print Function\nThe function is declared like this:\nprint('what to print')\n")
 #string manupulation
-print("hello"+"Angela") #string concatination
+print("hello "+"Angela") #string concatination
