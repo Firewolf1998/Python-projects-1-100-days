@@ -6,4 +6,11 @@
 
 ##Type Conversion
 >int(no./Math_operation)
->round(no./Math_operation)
+>round(no./Math_operation, no. of digit after point) // round(2.666666,2) => 2.67
+
+## Number Manupulation
+>Floor division => 8//3 => 3
+> no +=1
+
+## F strings
+print(f"the number is {score(no.)} {boolean}")
