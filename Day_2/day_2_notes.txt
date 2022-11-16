@@ -1,0 +1,9 @@
+##Data Types:
+>int 
+>float
+>booolean
+>char
+
+##Type Conversion
+>int(no./Math_operation)
+>round(no./Math_operation)
