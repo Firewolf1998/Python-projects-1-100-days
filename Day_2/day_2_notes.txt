@@ -7,6 +7,7 @@
 ##Type Conversion
 >int(no./Math_operation)
 >round(no./Math_operation, no. of digit after point) // round(2.666666,2) => 2.67
+>"{:.2f}".format(no)
 
 ## Number Manupulation
 >Floor division => 8//3 => 3
