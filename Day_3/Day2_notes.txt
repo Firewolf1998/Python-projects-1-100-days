@@ -1,0 +1,7 @@
+###count(): "to count the no of char that appears in a string"
+>"string".count("s") => 1
+
+###lower(): "to convert a string into lowercase"
+>input().lower()
+>"STRING".lower()
+>string_variable.lower()
