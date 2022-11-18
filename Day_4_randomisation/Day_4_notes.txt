@@ -1,3 +1,3 @@
 ## Random Number Generator
-import random
+import random // module random
 random_no = random.randint(1,10) // Chooses a random no. between 1 to 10 including 1 and 10
