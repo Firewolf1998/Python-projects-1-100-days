@@ -5,4 +5,12 @@ random_float = random.random()
 // Generates a random number from 0 to 1 not including 1
 ## If u want to choose random float from 0 to not including 5 random.random()*5
 
+***LIST***
+>list.append("X") //Add single item to the end of the list
+>list.extend("X", "Y") //Add multiple item to the end of the list
+>eggs = "A-B-C-D"
+ list_eggs = eggs.split("-") => [A,B,C,D] # the split() function will return a list
+>
+ 
+
 
