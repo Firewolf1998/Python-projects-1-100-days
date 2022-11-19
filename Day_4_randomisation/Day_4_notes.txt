@@ -11,6 +11,8 @@ random_float = random.random()
 >eggs = "A-B-C-D"
  list_eggs = eggs.split("-") => [A,B,C,D] # the split() function will return a list
 >random_name_from_list = random.choice(list_name) //will select a random element from the list
- 
-
+#Nested_list
+fruits = ["mango", "banana", "orange"]
+vegetable = ["spinach", "potato", "onion"]
+vegan = [fruits, vegetable] #consist of two list
 
