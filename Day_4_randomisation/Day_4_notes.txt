@@ -15,4 +15,4 @@ random_float = random.random()
 fruits = ["mango", "banana", "orange"]
 vegetable = ["spinach", "potato", "onion"]
 vegan = [fruits, vegetable] #consist of two list
-
+print(vegan[1][1]) => potato
