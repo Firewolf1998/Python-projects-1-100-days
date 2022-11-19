@@ -10,4 +10,6 @@ names = names_string.split(", ")
 
 #Write your code below this line 👇
 random_no = random.randint(0,len(names)-1)
+# Easier way
+# random_name = random.choice(names) // will select a random name from the list
 print(f"{names[random_no]} is going to buy the meal today!")
