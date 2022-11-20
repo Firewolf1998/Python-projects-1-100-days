@@ -1,1 +1,3 @@
 function used
+count()
+lower()
