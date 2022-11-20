@@ -12,9 +12,11 @@ for n in range(0, len(student_heights)):
 # total_height = sum(student_heights)
 # average_height = round(total_height/len(student_heights))
 # print(average_height)
-
+# no_of_student = 0
 # for n in student_heights:
 #     total_height += n
+#     no_of_student += 1
+#print(round(total_height/no_of_student))
 
 
 total_height=0
