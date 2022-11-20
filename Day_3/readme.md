@@ -1,3 +1,3 @@
 function used
-count()
-lower()
+#count()
+#lower()
