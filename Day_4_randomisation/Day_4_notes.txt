@@ -4,6 +4,7 @@ random_no = random.randint(1,10) // Chooses a random no. between 1 to 10 includi
 random_float = random.random()
 // Generates a random number from 0 to 1 not including 1
 ## If u want to choose random float from 0 to not including 5 random.random()*5
+random.shuffle(list_name) #shuffles the list
 
 ***LIST***
 >list.append("X") //Add single item to the end of the list
@@ -16,3 +17,4 @@ fruits = ["mango", "banana", "orange"]
 vegetable = ["spinach", "potato", "onion"]
 vegan = [fruits, vegetable] #consist of two list
 print(vegan[1][1]) => potato
+>var = list("word") // creates a list of a word
