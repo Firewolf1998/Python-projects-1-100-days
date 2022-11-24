@@ -1,0 +1,5 @@
+>sum(list_name)
+>max(list_name)
+>min(list_name)
+###FOR LOOP
+>for any_var_name in range(0,10) #for loop runs from zero to 9
