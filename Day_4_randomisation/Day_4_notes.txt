@@ -18,3 +18,19 @@ vegetable = ["spinach", "potato", "onion"]
 vegan = [fruits, vegetable] #consist of two list
 print(vegan[1][1]) => potato
 >var = list("word") // creates a list of a word
+IN LIST:
+list = ['larry', 'curly', 'moe']
+  if 'curly' in list:
+    print('yay')
+
+##LIST METHODS:
+ list = ['larry', 'curly', 'moe']
+  list.append('shemp')         ## append elem at end
+  list.insert(0, 'xxx')        ## insert elem at index 0
+  list.extend(['yyy', 'zzz'])  ## add list of elems at end
+  print(list)  ## ['xxx', 'larry', 'curly', 'moe', 'shemp', 'yyy', 'zzz']
+  print(list.index('curly'))    ## 2
+
+  list.remove('curly')         ## search and remove that element
+  list.pop(1)                  ## removes and returns 'larry'
+  print(list)  ## ['xxx', 'moe', 'shemp', 'yyy', 'zzz']
