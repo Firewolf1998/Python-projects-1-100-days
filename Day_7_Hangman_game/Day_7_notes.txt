@@ -1,0 +1,1 @@
+#when an empty list is created, use append function in for loop
