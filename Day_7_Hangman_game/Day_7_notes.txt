@@ -2,3 +2,5 @@
 IF YOU WANT TO IMPORT A CERTAIN FUNCTION FROM A MODULE
   Use this:
   from {module} import {class/function}
+  from {module} import * # import all methods and constants
+  import math as m # instead of using math.power(), You can use m.power()
