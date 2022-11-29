@@ -1,1 +1,4 @@
 #when an empty list is created, use append function in for loop
+IF YOU WANT TO IMPORT A CERTAIN MODULE USING IMPORT FUNCTION
+  Use this:
+  from hangman_wordlist import word_list
