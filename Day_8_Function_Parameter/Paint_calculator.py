@@ -4,8 +4,9 @@ Given a random height and width of wall, calculate how many cans of paint you'll
 '''
 
 #Write your code below this line 👇
+import math
 def paint_calc(height, width, cover):
-    no_of_cans = round((height*width)/cover)
+    no_of_cans = math.ceil((height*width)/cover)
     print(f"You'll need {no_of_cans} cans of paint.")
 
 #Write your code above this line 👆
