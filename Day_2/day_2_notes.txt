@@ -9,6 +9,10 @@
 >round(no./Math_operation, no. of digit after point) // round(2.666666,2) => 2.67
 >"{:.2f}".format(no)
 
+##CEIL:(rounds to the higher no. 2.1=> 3)
+import math
+math.ceil(no.)
+
 ## Number Manupulation
 >Floor division => 8//3 => 3
 > no +=1
