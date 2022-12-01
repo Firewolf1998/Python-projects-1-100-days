@@ -5,8 +5,8 @@ You need to write a function that checks whether if the number passed into it is
 #Write your code below this line 👇
 def prime_checker(number):
     prime = True
-    for i in range(2,51):
-        if number%i==0 and i != number:
+    for i in range(2,number):
+        if number %i == 0 and i != number:
             prime = False
     if prime == False:
         print("It's not a prime number.")
