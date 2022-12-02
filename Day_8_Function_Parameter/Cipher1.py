@@ -20,7 +20,10 @@ def encrypt(text, shift):
     for letter in text:
         position = alphabet.index(letter)
         position += shift
+        if position >26:
+          position -=26
         cipher_text += alphabet[position]
+    print(cipher_text)
     print(cipher_text)
     ##HINT: How do you get the index of an item in a list:
     #https://stackoverflow.com/questions/176918/finding-the-index-of-an-item-in-a-list
