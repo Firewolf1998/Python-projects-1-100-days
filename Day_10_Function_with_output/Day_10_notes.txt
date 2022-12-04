@@ -1,0 +1,2 @@
+##Capitalize 1st letter of each word in String
+"string".title() 
