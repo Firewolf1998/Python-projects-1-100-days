@@ -1,1 +1,13 @@
 # The first letter of a class is capital
+
+##Turtles weeee!!!
+
+import turtle
+timmy = turtle.Turtle()
+object = module.Class
+
+## Accessing Attributes:
+turtle.speed
+
+## Accessing Method:
+myscreen.exitonclick()
