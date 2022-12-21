@@ -10,5 +10,5 @@ table.add_column("Type", ["Electric", "Water", "Fire"])
 print(table.align)
 table.align = "l"
 
-%print the table
+#print the table
 print(table)
