@@ -37,3 +37,6 @@ list = ['larry', 'curly', 'moe']
   print(list)  ## ['xxx', 'moe', 'shemp', 'yyy', 'zzz']
   
   ' '.join(display) ## To join individual element in list
+  
+  string = 'this is a python string' ## To create list 
+  wordList = string.split(' ')
