@@ -35,3 +35,8 @@ list = ['larry', 'curly', 'moe']
   list.remove('curly')         ## search and remove that element
   list.pop(1)                  ## removes and returns 'larry'
   print(list)  ## ['xxx', 'moe', 'shemp', 'yyy', 'zzz']
+  
+  ' '.join(display) ## To join individual element in list
+  
+  string = 'this is a python string' ## To create list 
+  wordList = string.split(' ')
